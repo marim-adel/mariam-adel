@@ -43,45 +43,45 @@
 
 <div align="center" style="background-color:#0d1117; padding:15px; border-radius:10px;">
   <!-- AI / ML / DL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="40" alt="Python Animation" />
   <img width="12" />
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="40" alt="pytorch animation"/>
+  <img src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif" height="40" alt="PyTorch Animation"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" />
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" height="40" alt="TensorFlow Animation"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" height="40" alt="Numpy Animation"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
+  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" height="40" alt="Pandas Animation"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv" />
+
+  <!-- CV / NLP -->
+  <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" height="40" alt="OpenCV Animation"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="40" alt="Jupyter Animation"/>
   <img width="12" />
 
   <!-- Flutter / Mobile -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter" />
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" height="40" alt="Flutter Animation"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart" />
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" height="40" alt="Dart Animation"/>
   <img width="12" />
 
   <!-- Cloud -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Huawei_Cloud_Logo.svg" height="40" alt="huawei cloud" />
+  <img src="https://media.giphy.com/media/3o6Zt0yzOm6FwBNTs4/giphy.gif" height="40" alt="Huawei Cloud Animation"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure" />
+  <img src="https://media.giphy.com/media/3o7aD4FGLUqNwR0v6Y/giphy.gif" height="40" alt="Azure Animation"/>
   <img width="12" />
 
-  <!-- Other tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <!-- Tools -->
+  <img src="https://media.giphy.com/media/3o6Zt0Qp4M50t6Thwc/giphy.gif" height="40" alt="Git Animation"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" height="40" alt="GitHub Animation"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" height="40" alt="Linux Animation"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij" />
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" height="40" alt="VS Code Animation"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" height="40" alt="IntelliJ Animation"/>
 </div>
 
 ---
