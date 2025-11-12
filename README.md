@@ -1,4 +1,3 @@
-
 <!-- Header -->
 <h1 align="center" style="color:#ffffff;">Hey 👋, I'm Mariam Adel</h1>
 <h3 align="center" style="color:#c0c0c0;">🤖 AI & Machine Learning Engineer | Multi-Cloud Specialist</h3>
@@ -7,26 +6,36 @@
 
 ### 🧠 About Me  
 
-<div style="background-color:#0d1117; padding:15px; border-radius:10px; color:#c0c0c0;">
-<p>
-Driven by a passion for building <strong>intelligent systems</strong> that solve real-world problems, my journey began with <strong>Machine Learning</strong> and expanded into <strong>Deep Learning, NLP,</strong> and <strong>Computer Vision</strong>.  
-I’ve applied these skills in practical projects and enhanced them through certifications like <strong>Huawei HCIA–AI</strong> and <strong>Microsoft Azure Cloud</strong>.
-</p>
-
-<p>
-I specialize in merging <strong>AI and ML</strong> with <strong>multi-cloud architectures</strong>, leveraging both <strong>Azure</strong> and <strong>Huawei Cloud</strong> to deliver scalable, high-performance solutions.  
-Competitively, I ranked <strong>1st at my university</strong> in ECPC and qualified twice for the <strong>Egypt National Finals of ICPC</strong>.
-</p>
-
-<p>
-As an <strong>Instructor and Mentor</strong> in the ICPC BNU Community, I help students grow through algorithmic thinking and problem-solving.  
-As a <strong>Co-Leader of the Google Developer Group (GDG)</strong>, I actively contribute to tech community building, knowledge sharing, and developer empowerment.
-</p>
-
-<p>
-On the creative side, I’ve explored <strong>Flutter</strong> to craft sleek, cross-platform mobile applications — blending design and intelligence to create real impact.
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200" alt="AI Animation"/>
 </div>
+
+<div style="background-color:#0d1117; padding:15px; border-radius:10px; color:#c0c0c0;">
+  <p>
+    Driven by a passion for building <strong>intelligent systems</strong> that solve real-world problems, my journey began with <strong>Machine Learning</strong> and expanded into <strong>Deep Learning, NLP,</strong> and <strong>Computer Vision</strong>.
+    I’ve applied these skills in practical projects and enhanced them through certifications like <strong>Huawei HCIA–AI</strong> and <strong>Microsoft Azure Cloud</strong>.
+  </p>
+
+  <p>
+    I specialize in merging <strong>AI and ML</strong> with <strong>multi-cloud architectures</strong>, leveraging both <strong>Azure</strong> and <strong>Huawei Cloud</strong> to deliver scalable, high-performance solutions.
+    Competitively, I ranked <strong>1st at my university</strong> in ECPC and qualified twice for the <strong>Egypt National Finals of ICPC</strong>.
+  </p>
+
+  <p>
+    As an <strong>Instructor and Mentor</strong> in the ICPC BNU Community, I help students grow through algorithmic thinking and problem-solving.
+    As a <strong>Co-Leader of the Google Developer Group (GDG)</strong>, I actively contribute to tech community building, knowledge sharing, and developer empowerment.
+  </p>
+
+  <p>
+    On the creative side, I’ve explored <strong>Flutter</strong> to craft sleek, cross-platform mobile applications — blending design and intelligence to create real impact.
+  </p>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="500" alt="divider animation"/>
+</p>
 
 ---
 
@@ -36,7 +45,7 @@ On the creative side, I’ve explored <strong>Flutter</strong> to craft sleek, c
   <!-- AI / ML / DL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="40" alt="pytorch animation"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" />
   <img width="12" />
@@ -58,9 +67,9 @@ On the creative side, I’ve explored <strong>Flutter</strong> to craft sleek, c
   <img width="12" />
 
   <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Huawei_Cloud_Logo.svg" height="40" alt="huawei cloud" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Huawei_Cloud_logo.svg" height="40" alt="huawei cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure" />
   <img width="12" />
 
   <!-- Other tools -->
@@ -69,6 +78,10 @@ On the creative side, I’ve explored <strong>Flutter</strong> to craft sleek, c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
 </div>
 
 ---
@@ -76,8 +89,8 @@ On the creative side, I’ve explored <strong>Flutter</strong> to craft sleek, c
 ### 📊 GitHub Stats  
 
 <div align="center" style="background-color:#0d1117; padding:15px; border-radius:10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=marim-adel&show_icons=true&theme=tokyonight" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marim-adel&layout=compact&theme=tokyonight" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marim-adel&show_icons=true&theme=radical" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marim-adel&layout=compact&theme=radical" height="160" alt="Top Languages" />
 </div>
 
 ---
@@ -99,10 +112,3 @@ On the creative side, I’ve explored <strong>Flutter</strong> to craft sleek, c
   </a>
 </p>
 
----
-
-### 💬 Quote  
-
-<div style="background-color:#0d1117; padding:10px 15px; border-radius:10px; color:#c0c0c0;">
-> *"The best way to predict the future is to create it."* — Alan Kay
-</div>
